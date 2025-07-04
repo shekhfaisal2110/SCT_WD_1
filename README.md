@@ -1,12 +1,40 @@
-# React + Vite
+# 🌐 SkillCraft - Web Development Task 01
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Deployed on Netlify](https://img.shields.io/badge/Deployed-Netlify-brightgreen?style=for-the-badge&logo=netlify)
 
-Currently, two official plugins are available:
+> 🚀 **Live Demo**: [https://sct-wd-1-skillcraft.netlify.app](https://sct-wd-1-skillcraft.netlify.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A modern and clean front-end project built for the SkillCraft Internship – **Task 01**. It demonstrates responsive layout, semantic HTML, CSS styling, and smooth user experience, built with HTML, Tailwind CSS, and React fundamentals.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📸 Screenshots
+
+| Home Page | Responsive View |
+|-----------|-----------------|
+| ![Desktop View](https://via.placeholder.com/350x200?text=Desktop+Home+View) | ![Mobile View](https://via.placeholder.com/150x300?text=Mobile+View) |
+
+---
+
+## 🚧 Tech Stack Used
+
+| Tech | Description |
+|------|-------------|
+| ⚛️ React.js | JavaScript library for building UI |
+| 💨 Tailwind CSS | Utility-first CSS framework |
+| 🎨 HTML & JSX | Semantic markup with component-based structure |
+| 🌍 Netlify | Deployed and hosted here |
+
+---
+
+## ✨ Features
+
+- ✅ Fully Responsive Layout
+- 🧱 Clean and Modular Codebase
+- 🎯 Beginner-friendly React Setup
+- 🌈 Beautiful and minimal UI with Tailwind CSS
+- ⚡ Fast load & optimized performance
+
+---
